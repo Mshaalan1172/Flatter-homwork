@@ -1,0 +1,4 @@
+Explain the purpose of the main function in a Dart application.
+
+The main function in any dart application is the starting point of the code, the compiler will start 
+from this function.

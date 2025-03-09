@@ -1,0 +1,8 @@
+//Given this code, identify any errors and explain why they occur: ```dart void main()
+//{ String name = "Alice"; name = 123; print(name); } ```
+
+
+solution
+name = 123 is error ,name is defined as static string variable, not integer variable
+
+

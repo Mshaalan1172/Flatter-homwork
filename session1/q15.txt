@@ -1,0 +1,5 @@
+What does it mean for Dart to be a statically-typed language, and how does it
+impact the way variables are used
+
+statically-typed language is a  language  where its variable types are known at compile time, 
+i.e, each variable data type should be known (defined)

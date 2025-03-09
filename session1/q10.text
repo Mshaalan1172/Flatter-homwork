@@ -1,0 +1,4 @@
+//Explain what happens if you try to use a variable before it is declared in Dart.
+
+if we use undeclared variable, an error will occure and the program will not run,
+the variable will be underlined with red line and the compiler will suggest a solution
