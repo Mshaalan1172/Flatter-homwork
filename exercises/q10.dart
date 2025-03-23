@@ -7,8 +7,6 @@
 //- PartTimeEmployee: Adds hoursWorked and hourlyRate, overriding calculateSalary()
 // to compute salary based on hours worked
 
-import 'dart:io';
-
 void main() {
   FullTimeEmployee employee1 = FullTimeEmployee('Alice', 1, 5000.0, 1000.0);
   employee1.calculateSalary();
